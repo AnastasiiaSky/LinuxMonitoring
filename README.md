@@ -1,5 +1,6 @@
-# LinuxMonitoring
-В данном проекте реализованы простые скрипты для мониторинга системы.
+# Linux Monitoring
+
+
 
 ## Запуск скриптов на виртуальной машине.
 
@@ -109,6 +110,9 @@ script05.sh /var/log/
 ![VM](./pictures/part%205.3.png)
 ![VM](./pictures/part%205.4.png)
 ![VM](./pictures/part%205.5.png)
+
+
+
 
 
 
